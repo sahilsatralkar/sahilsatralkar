@@ -1,7 +1,7 @@
 ### Hi, I'm Sahil 👋
 
 
-- 🔭 I’m currently working on my first iOS app
+- 🔭 I’m currently working on my second iOS app
 - 🌱 Completed 100 Days of Swift and now learning SwiftUI
 - 👯 I’m looking to collaborate with developers on Swift
 - 🍁 I’m a Mechanical Engineer with 7 years of work experience at IT firm [@Infosys](https://www.infosys.com/)
