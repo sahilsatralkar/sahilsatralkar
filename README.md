@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m passionate, self-taught iOS Developer with keen interest in SwiftUI 
-- ⚡ I’m looking for a Job opportunity as iOS Dev
+- ⚡ I’m looking for a job/contract opportunity as iOS Dev
 - ✍🏻 I write blogs on Swift in [Medium](https://medium.com/@SahilSatralkar_18053)
 - 🍁 I’m a Mechanical Engineer with 7 years of work experience at IT firm [@Infosys](https://www.infosys.com/)
 
