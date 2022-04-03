@@ -10,6 +10,7 @@
 
 - 📫 You can reach me on [Twitter](https://twitter.com/sahilsatralkar)
 
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahilsatralkar)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilsatralkar&hide=html&bg_color=161b22&text_color=ffffff)<br>
+
 [![Aritro's github stats](https://github-readme-stats.vercel.app/api?username=sahilsatralkar&bg_color=161b22&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
