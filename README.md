@@ -3,7 +3,7 @@
 
 - 🔭 I’m passionate, self-taught iOS Developer with keen interest in SwiftUI 
 - ⚡ I’m looking for a job/contract opportunity as iOS Dev
-- ✍🏻 I write technical articles on Swift on [Medium](https://medium.com/@SahilSatralkar_18053)
+- ✍🏻 I write articles on Medium about Swift. Link [here](https://medium.com/@SahilSatralkar_18053).
 - 🍁 I’m an Engineer with 7 years of experience at IT company [Infosys](https://github.com/Infosys)
 
 
