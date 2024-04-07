@@ -6,7 +6,7 @@
 - 📫  Feel free to reach me:
 
 [![Twitter: sahilsatralkar](https://img.shields.io/twitter/follow/sahilsatralkar?style=social)](https://twitter.com/sahilsatralkar)
-[![Linkedin: sahil-satralkar-1a61b042](https://img.shields.io/badge/-sahil-satralkar-1a61b042-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-satralkar-1a61b042/)](https://www.linkedin.com/in/sahil-satralkar-1a61b042/)
+[![Linkedin: sahil-satralkar-1a61b042](https://img.shields.io/badge/-sahil-satralkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-satralkar-1a61b042/)](https://www.linkedin.com/in/sahil-satralkar-1a61b042/)
 [![Email](https://img.shields.io/badge/Email-%40sahil.satralkar@gmail.com%20-blue)](mailto:sahil.satralkar@gmail.com)
 
 
