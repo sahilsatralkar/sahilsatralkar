@@ -1,4 +1,4 @@
-### Hi, I'm Sahil 👋
+<h1 align="center"><b>Hi , I'm Sahil Satralkar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 - 🔭 I’m passionate, self-taught iOS Developer with keen interest in SwiftUI 
