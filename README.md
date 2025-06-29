@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m passionate, self-taught iOS Developer with keen interest in SwiftUI 
-- ✍🏻 I write articles on Medium about Swift. Link [here](https://medium.com/@SahilSatralkar_18053).
 - 📫  Feel free to reach me:
 
 [![Twitter: sahilsatralkar](https://img.shields.io/twitter/follow/sahilsatralkar?style=social)](https://twitter.com/sahilsatralkar)
