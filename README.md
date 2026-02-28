@@ -11,6 +11,3 @@
 [![Email](https://img.shields.io/badge/Email-%40sahil.satralkar@gmail.com%20-blue)](mailto:sahil.satralkar@gmail.com)
 
 
-
-[![Sahil's github stats](https://github-readme-stats.vercel.app/api?username=sahilsatralkar&bg_color=161b22&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
