@@ -4,10 +4,9 @@
 - 🔭 I’m passionate, self-taught iOS Developer with keen interest in SwiftUI
 - 🤖 Exploring the capabilities of AI agents
 - 🦞 OpenClaw Contributer
-- 📫  Feel free to reach me:
+- 📫 Connect:
 
-[![Twitter: sahilsatralkar](https://img.shields.io/twitter/follow/sahilsatralkar?style=social)](https://twitter.com/sahilsatralkar)
-[![Linkedin: sahil-satralkar-1a61b042](https://img.shields.io/badge/-sahilsatralkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-satralkar-1a61b042/)](https://www.linkedin.com/in/sahil-satralkar-1a61b042/)
-[![Email](https://img.shields.io/badge/Email-%40sahil.satralkar@gmail.com%20-blue)](mailto:sahil.satralkar@gmail.com)
-
-
+[![Sahil Satralkar](https://img.shields.io/badge/-Sahil_Satralkar-black?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sahilsatralkar)
+[![Website](https://img.shields.io/badge/Website-sahilsatralkar.com-blue?style=for-the-badge)](https://sahilsatralkar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahil--satralkar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-satralkar-1a61b042/)
+[![Email](https://img.shields.io/badge/Email-sahil.satralkar@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sahil.satralkar@gmail.com)
