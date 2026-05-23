@@ -17,7 +17,7 @@
 
 - Building polished iOS experiences with **SwiftUI**
 - Exploring practical **AI agents** for developer workflows
-- Contributing to **OpenClaw**
+- Contributing to **OpenClaw** and **Firefox iOS**
 - Learning in public and shipping small, useful things
 
 ### I Like Working On
